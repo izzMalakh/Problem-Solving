@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 // big-o notation is o(n^2): 
 // try another solution without double for loop for optimize solution (part2)
+// determine how many times occurs in the list of input string.
 class sparseArray{
      public static void main(String[] args){
         String[] input = {"ab" , "ab", "abc"};
